@@ -45,6 +45,7 @@ td:nth-of-type(1){
 
 th{
     display: none;
+    letter-spacing: 5px;
 }
 a{
     text-decoration-line: none;
@@ -57,7 +58,14 @@ img{
 .title{
     text-transform: capitalize;
     text-align: center;
+    letter-spacing: 5px;
+    
 }
+
+.title:hover {
+    transform: scale(1.2,1.2);
+}
+
 .paragraph{
     line-height: 2em;
     font-weight: 400;
