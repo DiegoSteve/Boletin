@@ -61,6 +61,8 @@ img{
 .paragraph{
     line-height: 2em;
     font-weight: 400;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .table{
     width: 100%;
